@@ -1,0 +1,1 @@
+"%~dp0ffmpeg.exe" -i "%1" -vf fps=25 -vf scale=1280:-1 -q:v 4 -vcodec wmv2 "%1.wmv"
