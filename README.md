@@ -11,7 +11,7 @@
 
 - Converts a video file to WMV 720p 25fps for playback in shipped Unreal Engine builds.
 
-Installation
+# Installation
 
 - Unzip, ensure ffmpeg.exe is in the same folder as ue4-wmv-convert.
 - If you have a 32-bit PC, delete ffmpeg.exe and rename ffmpeg.x86.exe to ffmpeg.exe.
